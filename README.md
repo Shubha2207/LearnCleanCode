@@ -18,8 +18,7 @@
 
 ### Meaningful Names <a name="names"></a>
 
-1. Use intention revealing names
-
+Use intention revealing names.
 Names should answer all big questions, if it requires a comment then it's not descriptive enough.
 Use pronounceable and searchable names. 
 
