@@ -15,7 +15,6 @@
 8. [Smells and Heuristics](#smells)
 
 ## Fundamentals <a name="fundamentals"></a>
-Some introduction text, formatted in heading 2 style
 
 ### Meaningful Names <a name="names"></a>
 
